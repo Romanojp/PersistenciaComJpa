@@ -24,25 +24,18 @@ public class RelatorioDeVendasVo {
 		return nomeProduto;
 	}
 
-	public void setNomeProduto(String nomeProduto) {
-		this.nomeProduto = nomeProduto;
-	}
+	
 
 	public Long getQuantidadeVendida() {
 		return quantidadeVendida;
 	}
 
-	public void setQuantidadeVendida(Long quantidadeVendida) {
-		this.quantidadeVendida = quantidadeVendida;
-	}
+	
 
 	public LocalDate getDataUltimaVenda() {
 		return dataUltimaVenda;
 	}
 
-	public void setDataUltimaVenda(LocalDate dataUltimaVenda) {
-		this.dataUltimaVenda = dataUltimaVenda;
-	}
 
 	
 	
